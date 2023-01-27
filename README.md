@@ -90,7 +90,18 @@ The 5 Fundamental Questions
   - How will the system progress?
       - Technological advances such as creative destruction because it is the hypothesis that the creation of new products and production models destroy the markey power of the existing monopolies.
       - This leads to capital accumulation.
-      
+The Invisible Hand
+  - This is a book that means the tendency of competition can cause an individual and firm in society to unintentianally but effectivley promote the intrests of society even when each of the individual firms only attempt to pursue it's own intrests. 
+  - The 1776 Wealth of Nations by Adam Smith which means there is a unity of private and social interest
+  - The virtues of the market system which means efficency, incentives, and freedom. 
+The Demise of Command Systems
+  - These command economies fail to produce adequate amounts of goods and services and this means that these places are missing the information needed to make products that are targeted to everyone.
+  - Imagine making shoes for only 10% of the population, this leads to a downfall of a company or a product. 
+The Circular FLow Model
+  - Private closed economy
+        Households, businesses which can be sole propietorships, partnerships, or corporations, and etc.
+The Circular Flow Diagram 
+  - This is a flow diagram that leads 
      
      
      
